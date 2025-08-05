@@ -28,7 +28,5 @@ To simulate real-world deployment of a machine learning model that detects anoma
 | Security               | Trivy (Image Scanning)                 |
 | Monitoring (Optional)  | Prometheus + Grafana                   |
 
----
 
-## 🧱 Project Structure
 
